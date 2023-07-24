@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         X
-// @namespace    https://github.com/sqchaofan/restore-Twitter-bird
+// @namespace    https://github.com/sqchaofan/return-Twitter-bird
 // @version      0.1
 // @description  modify「X」logo of x.com
 // @author       sqchaofan
